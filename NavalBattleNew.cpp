@@ -74,7 +74,7 @@ void fAboutScreen()
 		cout << "This is a Game of Naval Battle in which you have 10 chances to Strike precisely where the Boats are.\n";
 		cout << "By Succesfully striking a boat, you are rewarded with Score points, which determines your performance.\n";
 		cout << "This is a Game made for Studying purposes\n\n";
-		cout << "Credits: Jefferson Souza";
+		cout << "Credits: Jefferson Souza aka Sarmyte";
 		cout << "Input 1 to go Back to the Main Menu: \n";
 		cin >> iOption;
 	}
