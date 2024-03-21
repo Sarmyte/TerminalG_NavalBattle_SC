@@ -225,7 +225,7 @@ void fGameScreen()
 			cout << sSystemFeedback << "\n\n";
 			cout << "Strikes Remaining: " << iMaximumStrikes - iStrikes << "\n";
 			cout << "Score: " << iScore << "\n\n";
-			cout << "You struck in a Row or Column that is out of out Range! Try again.\n";
+			cout << "You struck in a Row or Column that is out of Range! Try again.\n\n";
 			cout << "Input a Row you wish to Strike" << "\n";
 			cin >> iInputRow;
 			cout << "Input a Column you wish to Strike" << "\n";
